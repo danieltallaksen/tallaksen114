@@ -4,3 +4,4 @@
 📫 How to reach me: daniet18@uia.no
 ⚡ Fun fact: Im billingual
 Daniel Tallaksen windows 11
+versjon v2.46.0
